@@ -1,0 +1,1242 @@
+{
+    "VirtualMachine": [
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 2,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 2,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.10
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 4,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.11
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 4,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.13
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 8,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.12
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 8,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.15
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 8,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 8,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.21
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 16,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 16,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.24
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 16,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.28
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 16,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.32
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.04
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 2,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 2,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 4,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.10
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 4,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.12
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 8,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 8,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.11
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 8,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.13
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 8,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.15
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 16,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.14
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 16,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.17
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 16,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "East US",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 16,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.23
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 2,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 2,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.11
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.10
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 4,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.12
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 4,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.14
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 8,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.13
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 8,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.15
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 8,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.17
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 8,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.19
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 16,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 16,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.21
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 16,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.24
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Windows",
+            "numberOfCPUs": 16,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.27
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.04
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 2,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 2,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 4,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.10
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 4,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.12
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 8,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 8,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.11
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 8,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.13
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 8,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.15
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 16,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.14
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 16,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.16
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 16,
+            "ramSize": "16GB",
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "West Europe",
+            "operatingSystem": "Linux",
+            "numberOfCPUs": 16,
+            "ramSize": "32GB",
+            "hourlyPrice": 0.20
+        }
+    ],
+	
+    "LoadBalancer": [
+       
+        {
+            "region": "East US",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "hourlyPrice": 0.09
+        }
+       ],
+	   
+    "AzureKubernetesService": [
+        {
+            "region": "East US",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "East US",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 2,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 2,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.07
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 4,
+            "ramSize": "4GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "West Europe",
+            "numberOfCPUs": 4,
+            "ramSize": "8GB",
+            "hourlyPrice": 0.09
+        }
+    ],
+	
+    "CosmosDB": [
+        {
+            "region": "East US",
+            "databaseEngine": "Core (SQL)",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "MongoDB",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Cassandra",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.16
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Gremlin",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.14
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Table",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.12
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Core (SQL)",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.22
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "MongoDB",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Cassandra",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Gremlin",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.16
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Table",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.14
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Core (SQL)",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "MongoDB",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Cassandra",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.16
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Gremlin",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.14
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Table",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.12
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Core (SQL)",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.22
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "MongoDB",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Cassandra",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Gremlin",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.16
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Table",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.14
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Core (SQL)",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "MongoDB",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Cassandra",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.16
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Gremlin",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.14
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Table",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.12
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Core (SQL)",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.22
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "MongoDB",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Cassandra",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Gremlin",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.16
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Table",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.14
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Core (SQL)",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "MongoDB",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Cassandra",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.16
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Gremlin",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.14
+        },
+        {
+            "region": "East US",
+            "databaseEngine": "Table",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.12
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Core (SQL)",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.22
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "MongoDB",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Cassandra",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Gremlin",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.16
+        },
+        {
+            "region": "West Europe",
+            "databaseEngine": "Table",
+            "throughputUnits": 400,
+            "hourlyPrice": 0.14
+        }
+    ],
+	
+    "AzureBackup": [
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.15
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.30
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.40
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.40
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.80
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.36
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.60
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.22
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.44
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.80
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.15
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.30
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.40
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.40
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.80
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.36
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.60
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.22
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.44
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.80
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.05
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.15
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.30
+        },
+        {
+            "region": "East US",
+            "backupType": "File and Folder",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.40
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.08
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.20
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.40
+        },
+        {
+            "region": "East US",
+            "backupType": "SQL Database",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.80
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.06
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.18
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.36
+        },
+        {
+            "region": "West Europe",
+            "backupType": "File and Folder",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.60
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "100GB",
+            "hourlyPrice": 0.09
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "500GB",
+            "hourlyPrice": 0.22
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "1TB",
+            "hourlyPrice": 0.44
+        },
+        {
+            "region": "West Europe",
+            "backupType": "SQL Database",
+            "storageSize": "5TB",
+            "hourlyPrice": 1.80
+        }
+    ]
+		
+}
