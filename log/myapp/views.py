@@ -41,8 +41,8 @@ def login(request):
         print("login failed")
         user = None
         messages.success(request, "Enter proper email and password")
-        return render(request, 'auth-login-basic.html')
-@csrf_exempt
+        return render(request, 'auth-login-basic.html') 
+
 def sign(request):
     if request.method=='POST':
         name = request.POST.get("name")
